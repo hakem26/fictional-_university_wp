@@ -1,0 +1,12 @@
+# Ignore WordPress core directories
+wp-admin/
+wp-includes/
+
+# Ignore uploads (optional if you don't want to version media files)
+wp-content/uploads/
+
+# Ignore sensitive config and cache files
+wp-config.php
+debug.log
+cache/
+git 
